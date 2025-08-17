@@ -1,0 +1,23 @@
+name: ProyectoIngeniera
+
+services:
+  MqttBroker:
+    container_name: mqttBroker
+    image: eclipse-mosquitto:openssl
+    ports:
+      - "15000:1883"
+    volumes:
+      -  ./config:/mosquitto/config
+      -  ./data:/mosquitto/data
+      -  ./log:/mosquitto/log
+  
+#   HomeAssistant:
+#    container_name: homeAssistant
+#    image: "ghcr.io/home-assistant/home-assistant:stable"
+#    volumes:
+#      - /homeassistant:/config
+#      - /etc/localtime:/etc/localtime:ro
+#      - /run/dbus:/run/dbus:ro
+#    restart: unless-stopped
+#    privileged: true
+#    network_mode: host
