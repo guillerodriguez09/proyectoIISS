@@ -70,3 +70,34 @@
 1755470310: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1755471197: mosquitto version 2.0.22 terminating
 1755471197: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1755555968: mosquitto version 2.0.22 starting
+1755555968: Config loaded from /mosquitto/config/mosquitto.conf.
+1755555968: Opening ipv4 listen socket on port 1883.
+1755555968: Opening ipv6 listen socket on port 1883.
+1755555968: mosquitto version 2.0.22 running
+1755555974: New connection from 192.168.65.1:42505 on port 1883.
+1755555974: New client connected from 192.168.65.1:42505 as mqtt-explorer-0e5fcfc2 (p2, c1, k60).
+1755556248: mosquitto version 2.0.22 terminating
+1755556248: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1755641695: mosquitto version 2.0.22 starting
+1755641695: Config loaded from /mosquitto/config/mosquitto.conf.
+1755641695: Opening ipv4 listen socket on port 1883.
+1755641695: Opening ipv6 listen socket on port 1883.
+1755641695: mosquitto version 2.0.22 running
+1755641707: New connection from 172.18.0.1:55576 on port 1883.
+1755641707: New client connected from 172.18.0.1:55576 as mqtt-explorer-0e5fcfc2 (p2, c1, k60).
+1755641833: New connection from 172.18.0.1:64968 on port 1883.
+1755641833: New client connected from 172.18.0.1:64968 as auto-272E264E-AD2D-2549-6BAD-E53B4C26E5A6 (p2, c1, k60).
+1755641833: Client auto-272E264E-AD2D-2549-6BAD-E53B4C26E5A6 disconnected.
+1755641869: New connection from 172.18.0.1:63228 on port 1883.
+1755641869: New client connected from 172.18.0.1:63228 as auto-718B2FB1-C472-6483-BBE0-CFEE621C477D (p2, c1, k60).
+1755641880: Client auto-718B2FB1-C472-6483-BBE0-CFEE621C477D closed its connection.
+1755641886: New connection from 172.18.0.1:56472 on port 1883.
+1755641886: New client connected from 172.18.0.1:56472 as auto-2DFD5587-0D91-33E0-83C8-BB2F0E03A32F (p2, c1, k60).
+1755641925: New connection from 172.18.0.1:58294 on port 1883.
+1755641925: New client connected from 172.18.0.1:58294 as auto-ADC987EC-6B29-D27B-06B5-7DAE78B27743 (p2, c1, k60).
+1755641925: Client auto-ADC987EC-6B29-D27B-06B5-7DAE78B27743 disconnected.
+1755641965: New connection from 172.18.0.1:61914 on port 1883.
+1755641965: New client connected from 172.18.0.1:61914 as auto-7B5A9433-5C87-F9EB-BD04-67E6538CB30E (p2, c1, k60).
+1755641965: Client auto-7B5A9433-5C87-F9EB-BD04-67E6538CB30E disconnected.
+1755641976: Client auto-2DFD5587-0D91-33E0-83C8-BB2F0E03A32F closed its connection.
